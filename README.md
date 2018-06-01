@@ -1,5 +1,11 @@
 # Music-Playing-Database-System
 
+# Contributors
+Anıl Erken
+Arkın Yılmaz
+Berk Mandıracıoğlu
+İrem Ural
+
   Music playing database system called HeyListen is a web based application, which users can listen and keep track of the songs in more enjoyable and interactive way. This online platform allows users to follow their friends and the singers. Hence there will be followers of the user as well as following ones, which are followed by the user. Users will be informed by the activities of the people they followed. These activities can be as follows:
   - Share song with followers
   - Like/dislike a song, comment, post
