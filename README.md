@@ -1,7 +1,7 @@
 # Music-Playing-Database-System
 
-# Contributors
-Anıl Erken
+Contributors
+Anıl Erken\n
 Arkın Yılmaz
 Berk Mandıracıoğlu
 İrem Ural
