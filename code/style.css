@@ -1,0 +1,9 @@
+.top5 { margin-top:5px; }
+.top7 { margin-top:7px; }
+.top10 { margin-top:10%; }
+.top15 { margin-top:15%; }
+.top17 { margin-top:17%; }
+.topus30 { margin-top:30%; }
+#myoutercontainer { position:relative }
+#myinnercontainer { position:absolute; top:50%; height:10em; margin-top:-5em }
+
